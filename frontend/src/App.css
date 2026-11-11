@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f6fa;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.navbar {
+    min-height: 65px;
+}
+
+.form-control,
+.form-select {
+    border-radius: 8px;
+}
+
+.btn {
+    border-radius: 7px;
+}
+
+.card-body {
+    padding: 20px;
+}
